@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name _Valve)(type Legacy)(uri ${KIPRJMOD}/library/Valve.lib)(options "")(descr ""))
+)
